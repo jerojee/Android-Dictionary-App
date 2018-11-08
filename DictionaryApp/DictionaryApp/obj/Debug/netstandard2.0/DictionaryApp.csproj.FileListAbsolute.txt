@@ -1,0 +1,12 @@
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\bin\Debug\netstandard2.0\DictionaryApp.deps.json
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\bin\Debug\netstandard2.0\DictionaryApp.dll
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netstandard2.0\DictionaryApp.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netstandard2.0\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netstandard2.0\DictionaryApp.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netstandard2.0\DictionaryApp.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\bin\Debug\netstandard2.0\DictionaryApp.pdb
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netstandard2.0\DictionaryApp.dll
+C:\Users\Jeremy\source\repos\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netstandard2.0\DictionaryApp.pdb

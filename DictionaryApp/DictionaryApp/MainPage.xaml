@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DictionaryApp"
+             x:Class="DictionaryApp.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Owl Dictionary" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+               
+        <Entry x:Name="WordBoxInput" Placeholder="Enter Word"  
+               HorizontalOptions="Center" Completed="Handle_ProcessWord"
+               HorizontalTextAlignment="Center"/>
+
+        <Label x:Name="ErrorLabel" Text="Error: Word missing or does not exist." 
+               HorizontalTextAlignment="Center" IsVisible="False" />
+
+        <ListView x:Name="WordDefinitionView" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="5">
+                            
+                            <Label
+                                Text="{Binding Type}"
+                                FontAttributes="Bold" />
+                            <Label
+                                Text="{Binding Definition}" />
+                            <Label
+                                Text="{Binding Example}"/>
+                            
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+    </StackLayout>
+
+</ContentPage>
